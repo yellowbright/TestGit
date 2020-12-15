@@ -19,8 +19,11 @@ lucas test here10
 lucas test here11
 lucas test here12
 
+<<<<<<< HEAD
 lucas test here13
 
 lucas test here14
 
 lucas test here15
+=======
+>>>>>>> parent of cad17aa (merge 0003)
